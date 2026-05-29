@@ -105,10 +105,10 @@ Xiaozhi AI Assistant developed based on the Flutter framework, supporting multi-
 
 ## Contact Information
 - ## **email**
-> lhht0606@163.com
+> tang@lhht.cc
 
 - **wechat**
-> Forever-Destin
+> Tang_xs-xk
 
 # For customized client development support, please contact WeChat
 
