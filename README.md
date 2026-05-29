@@ -107,10 +107,10 @@
 
 ## 联系方式
 - ## **email**
-> lhht0606@163.com
+> tang@lhht.cc
 
 - **wechat**
-> Forever-Destin
+> Tang_xs-xk
 
 # 支持提供定制化开发客户端可以联系WeChat
 
